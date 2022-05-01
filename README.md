@@ -1,3 +1,3 @@
 # OneGoVacay
- https://feed00.github.io/OneGoVacay/index.html
+ https://feed00.github.io/OneGoVacay/OneGoVacay!/index.html
  
